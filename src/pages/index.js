@@ -18,6 +18,7 @@ export default function Home({ page, posts }) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>{title}</h1>
+        <h2>Test heading</h2>
 
         <p className={styles.description}>{ description }</p>
 
